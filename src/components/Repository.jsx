@@ -128,7 +128,7 @@ function Repository({user, match}) {
               <small>
                 <em>
                   <a href="https://opensource.guide/how-to-contribute/" rel="noreferrer" target="_blank">
-                    Learn how to contribute to open source projects
+                    Learn how to contribute to open source projects or something
                   </a>
                 </em>
               </small>
